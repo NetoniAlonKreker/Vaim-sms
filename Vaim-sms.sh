@@ -6,7 +6,7 @@
 #if you use without giving me credit then you won't became a programmer so please respect
 #Youtube channel : https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ
 #Github (coded by vaimpier ritik ) >>> : https://github.com/VaimpierOfficial
-#For business : sonuv0085@gmail.com
+#For business : htehogi@gmail.com
 #vaimpier
 #==========================================================================================================================
 #==========================================================================================================================
